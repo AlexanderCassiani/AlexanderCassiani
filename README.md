@@ -1,9 +1,15 @@
 # Hola 👋 Soy Alexander
 
-Desarrollador Junior Full Stack en formación, apasionado por el software y la tecnologia.
+Desarrollador Junior Full Stack en formación, apasionado por el software y la tecnología.
 
-Actualmente estudio ADSO (Analisis y Desarrollo de Software) en el SENA y me enfoco en el desarrollo con React, Node.js y MySQL.
+Actualmente estudio ADSO (Análisis y Desarrollo de Software) en el SENA y me enfoco en el desarrollo con React, Node.js y MySQL.
 
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexanderCassiani&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderCassiani&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AlexanderCassiani&theme=tokyonight)
 ---
 
 ## 🚀 Tecnologías
@@ -23,7 +29,7 @@ Actualmente estudio ADSO (Analisis y Desarrollo de Software) en el SENA y me enf
 ## 📌 Proyectos
 
 ### 📝 Notely
-Aplicación para gestionar nota.
+Aplicación para gestionar notas.
 
 **Tecnologías:**
 React • Node.js • Express • MySQL
